@@ -1,1 +1,1 @@
-# LCSplitReleases
+# LCSplit

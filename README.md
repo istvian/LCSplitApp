@@ -9,15 +9,26 @@ Esta aplicación de consola es una herramienta para cortar los textos biblicos d
 #### **Modo de uso**
 ##### Cortado de textos
 - Descarga el texto requerido desde la aplicación naranja
-- En la barra superior de la consola encontraras las opciones actuales, con estas opciones el programa buscara el archivo de video para luego cortarlos, fijate que coincidan con el archivo de video. (La ruta del archivo de video generalmente es _C:\Users\TuNombreDeUsuario\Videos\JWLibrary_). 
+- En la barra superior de la consola encontraras las opciones actuales, con estas opciones el programa buscara el archivo de video para luego cortarlos, fijate que coincidan con el archivo de video. (La ruta del archivo de video generalmente es _C:\Users\TuNombreDeUsuario\Videos\JWLibrary\nwt_xxx_). 
 
-- Dentro de esa carpeta encontraras una que comienza con nwt_xxx(sigla de idioma).
-- Abrela y busca el archivo de video. Debiese llamarse algo parecido a esto: **nwt_40_Mt_SCH_01_r720P.mp4**
+**Configuración Inicial**
+
+- **Configuración por defecto**
+- La aplicación esta configurada por defecto para buscar archivos de tipo mp4, en idioma SCH, Calidad 720 y guardarlos en formato mp4.
+
+- Si no tienes los videos descargados en 720 puedes utilizar el comando /calidad y escribir la calidad que tengas descargadas (Ej: 240, 360, 480, 720).
+
+- Si deseas buscar textos en otro idioma utiliza el comando /idioma para cambiar el idioma.
+
+- Si la aplicación no encuentra los textos fijate que el formato coincida, por defecto la aplicación busca textos con formato mp4, pero algunos idiomas tienen formato m4v u otros, para cambiar esto escribe /formato. Este comando te permitira fijar el formato de textos que la aplicación buscara y el formato de salida.
+
+- **¿De donde saco esos datos?**
+- Busca la ruta de descarga de la aplicación naranja _C:\Users\TuNombreDeUsuario\Videos\JWLibrary\nwt_xxx_ y busca un archivo de video de la Biblia. Debiese llamarse algo parecido a esto: **nwt_40_Mt_SCH_01_r720P.mp4**
 Donde: 
 - SCH es el idioma
 - 720 es la calidad
 - mp4 es el Formato (**No formato de salida**)
-(Si deseas cambiar alguna de estas opciones escribe /set y sigue los pasos).
+(Si deseas cambiar todas estas opciones escribe /set y sigue los pasos).
 
 Cuando tengas las opciones correctas puedes buscar el texto que necesites:
 - _Ejemplos:_
@@ -25,7 +36,7 @@ Cuando tengas las opciones correctas puedes buscar el texto que necesites:
 - _Mateo 24:13-14_
 - _Mat 24:1,14_
 
-##### Comandos
+#### Comandos
 A continuación una lista de todos los comandos que puedes usar.
 Para usarlos solo escribelos (incluido el /) y presiona la tecla Enter).
 

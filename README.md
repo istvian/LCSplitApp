@@ -13,9 +13,10 @@ Esta aplicación de consola es una herramienta para cortar los textos biblicos d
 
 - Dentro de esa carpeta encontraras una que comienza con nwt_xxx(sigla de idioma).
 - Abrela y busca el archivo de video. Debiese llamarse algo parecido a esto: **nwt_40_Mt_SCH_01_r720P.mp4**
+Donde: 
 - SCH es el idioma
 - 720 es la calidad
-- mp4 es el Formato
+- mp4 es el Formato (**No formato de salida**)
 (Si deseas cambiar alguna de estas opciones escribe /set y sigue los pasos).
 
 Cuando tengas las opciones correctas puedes buscar el texto que necesites:
@@ -25,15 +26,18 @@ Cuando tengas las opciones correctas puedes buscar el texto que necesites:
 - _Mat 24:1,14_
 
 ##### Comandos
-- /calidad = Cambia la calidad del archivo de video buscado (Ej: 720)
+A continuación una lista de todos los comandos que puedes usar.
+Para usarlos solo escribelos (incluido el /) y presiona la tecla Enter).
+
+- /calidad = Cambia la calidad del archivo de video que va a buscar (El archivo que tienes descargado por la aplicación).
 - /clear = Limpia la consola
 - /debug = Activa/Desactiva el modo debug
-- /formato = Cambia el formato del archivo de video buscado (Ej: mp4 / m4v).
-- /getlink = Genera el link para descargar la versión siguiente a la actual.
-- /help = Muestra el archivo de ayuda desde el [sitio](https://github.com/istvian/LCSplitApp) de LCSplitApp.
-- /idioma = Cambia la sigla del archivo de video buscado (Ej: SCH).
-- /set = Cambia la configuración inicial, ya sea idioma, formatos y calidad.
-- /update = Abre las [versiones](https://github.com/istvian/LCSplitApp/releases) disponibles para descargar
+- /formato = Te permite cambiar el formato del archivo buscado (El archivo que tienes descargado por la aplicación) y el formato de salida del video (El archivo que vas a guardar).
+- /getlink = Abre con el navegador el link para descargar la versión siguiente.
+- /help = Muestra este archivo de ayuda desde el [sitio](https://github.com/istvian/LCSplitApp) de LCSplitApp.
+- /idioma = Cambia la sigla del archivo de video buscado (Si quieres cambiar de idioma debes usar este comando).
+- /set = Te permite cambiar todas las configuraciones. (Idioma, Calidad, Formato y Formato de Salida)
+- /update = Abre en el navegador las [versiones](https://github.com/istvian/LCSplitApp/releases) disponibles para descargar
 - /exit = Sale de la consola
 
 

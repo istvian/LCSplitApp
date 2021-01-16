@@ -22,8 +22,7 @@ Cuando tengas las opciones correctas puedes buscar el texto que necesites:
 - _Ejemplos:_
 - _Mateo 24:14_
 - _Mateo 24:13-14_
-- _Mat 24:14_
-- **Por ahora solo esta disponible la seleccion del texto mediante "-" (guion) y no con "," (coma).**
+- _Mat 24:1,14_
 
 ##### Comandos
 - /calidad = Cambia la calidad del archivo de video buscado (Ej: 720)

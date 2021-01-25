@@ -2,7 +2,7 @@
 #### **Información general**
 Esta aplicación de consola es una herramienta para cortar los textos biblicos desde los videos en señas (Soporta varios idiomas).
 #### **Instalación**
-- Descarga la versión más actualizada de LCSplit.rar en [Releases](https://github.com/istvian/LCSplitApp/releases)
+- Descarga la versión más actualizada de LCSplit.rar en [Releases](https://github.com/istvian/LCSplitApp/releases/download/1.0.2/LCSplit1.0.2.rar)
 - Descomprime el archivo .rar en la ubicación que quieras.
 - Ejecuta el archivo _LCSplit.exe_ 
 

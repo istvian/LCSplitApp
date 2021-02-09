@@ -2,7 +2,7 @@
 #### **Información general**
 Esta aplicación de consola es una herramienta para cortar los textos biblicos desde los videos en señas (Soporta varios idiomas).
 #### **Instalación**
-- Descarga la versión más actualizada de [LCSplit.rar](https://github.com/istvian/LCSplitApp/releases/download/1.0.2/LCSplit1.0.2.rar)
+- Descarga la versión más actualizada de [LCSplit.rar](https://github.com/istvian/LCSplitApp/releases/download/1.0.3/LCSplit1.0.3.rar)
 - Descomprime el archivo .rar en la ubicación que quieras.
 - Ejecuta el archivo _LCSplit.exe_ 
 
@@ -44,11 +44,13 @@ Para usarlos solo escribelos (incluido el /) y presiona la tecla Enter).
 - /clear = Limpia la consola
 - /debug = Activa/Desactiva el modo debug
 - /formato = Te permite cambiar el formato del archivo buscado (El archivo que tienes descargado por la aplicación) y el formato de salida del video (El archivo que vas a guardar).
-- /getlink = Abre con el navegador el link para descargar la versión siguiente.
+- /get = Descarga la nueva versión en el escritorio.
 - /help = Muestra este archivo de ayuda desde el [sitio](https://github.com/istvian/LCSplitApp) de LCSplitApp.
 - /idioma = Cambia la sigla del archivo de video buscado (Si quieres cambiar de idioma debes usar este comando).
-- /set = Te permite cambiar todas las configuraciones. (Idioma, Calidad, Formato y Formato de Salida)
-- /update = Abre en el navegador las [versiones](https://github.com/istvian/LCSplitApp/releases) disponibles para descargar
+- /info = Abre en el navegador las [versiones](https://github.com/istvian/LCSplitApp/releases) disponibles para descargar
+- /setup = Permite cambiar todas las configuraciones. (Idioma, Calidad, Formato y Formato de Salida)
+- /salida = Permite cambiar el directorio de guardado de los videos.
+- /default = Restaura el directorio de guardado de videos por defecto.
 - /exit = Sale de la consola
 
 

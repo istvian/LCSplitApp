@@ -24,19 +24,14 @@ Ej:
 - 03 Imagen.jpg
 ###### *Nota: En el video final habran transiciones de color negro de 2 segundos cada una, ademas las imagenes se mostraran por 5 segundos.*
 
-
-**Configuración Inicial**
-
-- **Configuración por defecto**
+#### **Configuración Inicial**
+#### **Configuración por defecto**
 - La aplicación esta configurada por defecto para buscar archivos de tipo mp4, en idioma SCH, Calidad 720 y guardarlos en formato mp4.
-
 - Si no tienes los videos descargados en 720 puedes utilizar el comando /calidad y escribir la calidad que tengas descargadas (Ej: 240, 360, 480, 720).
-
 - Si deseas buscar textos en otro idioma utiliza el comando /idioma para cambiar el idioma.
-
 - Si la aplicación no encuentra los textos fijate que el formato coincida, por defecto la aplicación busca textos con formato mp4, pero algunos idiomas tienen formato m4v u otros, para cambiar esto escribe /formato. Este comando te permitira fijar el formato de textos que la aplicación buscara y el formato de salida.
 
-- **¿De donde saco esos datos?**
+##### **¿De donde saco esos datos?**
 - Busca la ruta de descarga de la aplicación naranja _C:\Users\TuNombreDeUsuario\Videos\JWLibrary\nwt_xxx_ y busca un archivo de video de la Biblia. Debiese llamarse algo parecido a esto: **nwt_40_Mt_SCH_01_r720P.mp4**
 Donde: 
 - SCH es el idioma

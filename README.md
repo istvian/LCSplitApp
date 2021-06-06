@@ -56,7 +56,7 @@ Para usarlos solo escribelos (incluido el /) y presiona la tecla Enter).
 - /entrada = Permite cambiar el directorio donde buscara los textos
 - /formato = Permite cambiar el formato del archivo buscado (El archivo que tienes descargado por la aplicación) y el formato de salida del video (El archivo que vas a guardar).
 - /get = Descarga la nueva versión en el escritorio.
-- /help = Muestra este archivo de ayuda desde el [sitio](https://github.com/istvian/LCSplitApp) de LCSplitApp.
+- /help = Muestra el texto de ayuda.
 - /idioma = Cambia la sigla del archivo de video buscado (Si quieres cambiar de idioma debes usar este comando).
 - /info = Abre en el navegador las [versiones](https://github.com/istvian/LCSplitApp/releases) disponibles para descargar
 - /setup = Permite cambiar todas las configuraciones. (Idioma, Calidad, Formato y Formato de Salida)
